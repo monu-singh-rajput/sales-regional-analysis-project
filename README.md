@@ -8,8 +8,7 @@ End-to-end Sales Analytics project analyzing 64K+ records, including data cleani
 
 * Python (Pandas, NumPy)
 * MySQL
-* Power BI (Dashboard – In Progress)
-
+* Power BI 
 ## Data Pipeline
 
 Excel → Python (Data Cleaning & Feature Engineering) → MySQL → Power BI
