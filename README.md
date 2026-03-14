@@ -42,7 +42,7 @@ Excel → Python (Data Cleaning & Feature Engineering) → MySQL → Power BI
 
 ✔ Data Cleaning Completed
 ✔ SQL Analysis Completed
-⏳ Power BI Dashboard – In Progress
+⏳ Power BI 
 
 ## Objective
 
